@@ -1,0 +1,8 @@
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial2_2531352018\Parcial2_2531352018\bin\Debug\Parcial2_2531352018.exe.config
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial2_2531352018\Parcial2_2531352018\bin\Debug\Parcial2_2531352018.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial2_2531352018\Parcial2_2531352018\bin\Debug\Parcial2_2531352018.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial2_2531352018\Parcial2_2531352018\obj\Debug\Parcial2_2531352018.csprojResolveAssemblyReference.cache
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial2_2531352018\Parcial2_2531352018\obj\Debug\Parcial2_2531352018.exe
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial2_2531352018\Parcial2_2531352018\obj\Debug\Parcial2_2531352018.pdb
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial2_2531352018\Parcial2_2531352018\bin\Debug\ClassLibrary1.dll
+c:\users\lab3\documents\visual studio 2013\Projects\Parcial2_2531352018\Parcial2_2531352018\bin\Debug\ClassLibrary1.pdb
